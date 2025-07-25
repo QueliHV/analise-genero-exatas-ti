@@ -1,6 +1,6 @@
-# Análise de Gênero nas Exatas e Tecnologia
+# 📚 Análise de Gênero nas Exatas e Tecnologia
 
-Este repositório contém a análise desenvolvida como trabalho final da disciplina de Storytelling com Dados, do curso de Inteligência Artificial Aplicada.
+Este repositório contém a análise desenvolvida como trabalho final da disciplina de **Storytelling com Dados**, do curso de **Inteligência Artificial Aplicada**.
 
 ## 🎯 Objetivo
 
@@ -19,19 +19,22 @@ Investigar, com base nos dados do ENEM e do Censo da Educação Superior, a rela
 - `storytelling/`: roteiro narrativo com a personagem Alice
 - `trabalho-final/`: versão final do trabalho em PDF
 
-** Os dados brutos e tratados estão em um diretório publico no drive:
-https://drive.google.com/drive/folders/1UmABKmjR7cM-aiI41AnzDhKIzD1IocUc?usp=sharing
+## 🗂️ Acesso aos Dados
+
+📂 [Clique aqui para acessar os dados no Google Drive](https://drive.google.com/drive/folders/1UmABKmjR7cM-aiI41AnzDhKIzD1IocUc?usp=sharing)
+
+> Os dados devem ser colocados na pasta `dados/` para correta execução dos notebooks.
 
 ## 📎 Entrega
 
-O PDF final pode ser acessado [aqui](trabalho-final/trabalho-final.pdf) ou no ambiente da disciplina.
+O PDF final pode ser acessado [aqui](pdf/trabalho-final.pdf) ou no ambiente da disciplina.
 
 ## ✨ Destaques
 
-- Personagem fictícia "Alice" para condução da narrativa
-- Visualizações acessíveis com foco na comparação de desempenho
-- Aplicação de conceitos de storytelling e análise crítica de gênero
+- 👩‍💻 Personagem fictícia **Alice** conduz a narrativa
+- 📈 Visualizações acessíveis com foco na comparação de desempenho
+- 🧠 Aplicação de conceitos de storytelling e análise crítica de gênero
 
 ---
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Queli Hesper](https://github.com/QueliHV).
