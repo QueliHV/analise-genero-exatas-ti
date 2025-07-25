@@ -14,9 +14,8 @@ Investigar, com base nos dados do ENEM e do Censo da Educação Superior, a rela
 ## 📁 Estrutura
 
 - `notebooks/`: notebooks com a análise de dados
-- `dados/`: dados brutos utilizados
+- `data/`: dados brutos utilizados e dados filtrados
 - `imagens/`: gráficos e imagens utilizadas no trabalho
-- `storytelling/`: roteiro narrativo com a personagem Alice
 - `trabalho-final/`: versão final do trabalho em PDF
 
 ## 🗂️ Acesso aos Dados
