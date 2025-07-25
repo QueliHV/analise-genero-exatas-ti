@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários do macOS
+.DS_Store
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+
+
+# Se quiser manter dados, NÃO ignore estas pastas:
+data/raw/
+data/processed/
+
