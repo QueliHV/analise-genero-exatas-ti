@@ -8,8 +8,8 @@ Investigar, com base nos dados do ENEM e do Censo da Educação Superior, a rela
 
 ## 📊 Conjuntos de Dados
 
-- [Microdados ENEM 2023](https://www.gov.br/inep)
-- [Censo da Educação Superior 2022](https://inep.gov.br)
+- [Microdados ENEM 2023](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
+- [Censo da Educação Superior 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 ## 📁 Estrutura
 
@@ -20,7 +20,7 @@ Investigar, com base nos dados do ENEM e do Censo da Educação Superior, a rela
 
 ## 🗂️ Acesso aos Dados
 
-📂 [Clique aqui para acessar os dados no Google Drive](https://drive.google.com/drive/folders/1UmABKmjR7cM-aiI41AnzDhKIzD1IocUc?usp=sharing)
+📂 [Clique aqui para acessar os dados no Google Drive](https://drive.google.com/drive/folders/16AQxt522CL_a0Sl5oofrDjRFqzVaka2p?usp=drive_link)
 
 > Os dados devem ser colocados na pasta `dados/` para correta execução dos notebooks.
 
